@@ -1,5 +1,5 @@
 # RockPaperScissors
-Created the classic "Rock - Paper - Scissors" game with the option to play Sheldon's version - "Rock - Paper - Scissors - Lizard - Spock".
+Created the classic "Rock - Paper - Scissors" game with the option to play Sheldon's version: "Rock - Paper - Scissors - Lizard - Spock".
 
 Uses Python's command line as well as the 'random' package.
 
